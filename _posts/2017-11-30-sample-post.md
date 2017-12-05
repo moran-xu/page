@@ -7,4 +7,4 @@ thumbnail: "assets/img/pexels/computer.jpeg"   # Add a thumbnail image on blog v
 tags: [life]
 ---
 
-It is my first attempt to build a blog with Jekyll.
+It is my first attempt to build a blog with JEKYLL. Wonderful Experience.
