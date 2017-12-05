@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/page"
-url: "https://moran.github.io"
+url: "https://moran-xu.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
