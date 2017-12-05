@@ -6,8 +6,8 @@ url: "https://moran-xu.github.io"
 theme_settings:
   # Meta
   title: Maoran Xu(徐茂然)
-  avatar: assets/img/triangle.svg
-  favicon: assets/favicon.ico
+  avatar: assets/img/jigglypuff.svg
+  favicon: assets/star-1.svg
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
